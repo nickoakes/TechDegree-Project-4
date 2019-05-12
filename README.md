@@ -1,4 +1,4 @@
-# TechDegree-Project-4
+# Word Guessing Game
 
 A 'Hangman'-style game in which the player has to guess the letters in a phrase, for which placeholders are displayed on-screen.
 
