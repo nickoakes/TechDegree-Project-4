@@ -13,7 +13,7 @@ class Game {
         this.activePhrase = null;
     }
 
-//remove overlay, select random phrase and render phrase to display on new game
+//hide overlay, select random phrase and render phrase to display on new game
 
     startGame() {
         document.querySelector('#overlay').style.display = "none";
